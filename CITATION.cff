@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Astronaut Analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nina
+    family-names: Christiansen
+    email: Nina.christiansen@hotmail.de
+repository-code: 'https://github.com/nchris02/astronaut-analysis'
+license: MIT
+version: 0.1.0
+date-released: '2023-03-28'
